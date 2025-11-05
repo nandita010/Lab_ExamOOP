@@ -22,7 +22,7 @@ public class OMS_features {
         toString() = sc.nextInt();
 
         if(orders == null){
-            System.out.println("Please enter another ID:");
+            System.out.println("Please enter another ID :");
         }
     }
 
